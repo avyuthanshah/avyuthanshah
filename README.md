@@ -43,7 +43,7 @@
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
 </a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/> 
+<img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/370523.svg" alt="airflow" width="40" height="40"/> 
 </a>
 </p>
 
