@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avyuthan Shah</h1>
-<h3 align="center">A passionate ML and Data Engineer</h3>
+<h3 align="center">Aspiring Data Engineer</h3>
 
 - 📫 How to reach me **avyuthanshah30@gmail.com**
 
