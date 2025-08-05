@@ -50,10 +50,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 </a> 
 <a href="https://delta.io/" target="_blank" rel="noreferrer"> 
-<img src="https://avatars.githubusercontent.com/u/53186154?s=200&v=4" alt="deltalake" width="40" height="40"/>
+<img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/delta-lake.svg" alt="deltalake" width="40" height="40"/>
 </a>
 <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> 
-<img src="https://iceberg.apache.org/images/apache-iceberg.svg" alt="iceberg" width="40" height="40"/>
+<img src="https://commons.wikimedia.org/wiki/File:Apache_Iceberg_Logo.svg" alt="iceberg" width="40" height="40"/>
 </a>
 </p>
 
@@ -106,8 +106,5 @@
 </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 </a>
 </p>
