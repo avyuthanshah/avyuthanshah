@@ -11,6 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <h4>Cloud Platforms</h4>
 <p align="left"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
@@ -26,6 +27,9 @@
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
 </a> 
+<a href="https://www.sql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+</a>
 </p>
 
 <h4>Data Engineering and Analysis</h4>
@@ -46,10 +50,16 @@
 <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg" alt="airflow" width="40" height="40"/> 
 </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+</a>
+<a href="https://delta.io/" target="_blank" rel="noreferrer"> 
+<img src="https://avatars.githubusercontent.com/u/53186154?s=200&v=4" alt="deltalake" width="40" height="40"/>
+</a>
+<a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> 
+<img src="https://iceberg.apache.org/images/apache-iceberg.svg" alt="iceberg" width="40" height="40"/>
 </a>
 </p>
 
@@ -64,7 +74,6 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 </a>
-
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </a>
@@ -80,6 +89,9 @@
 </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
 </p>
 
@@ -101,6 +113,9 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a> 
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/>
+</a>
 </p>
 
 <h4>Others</h4>
